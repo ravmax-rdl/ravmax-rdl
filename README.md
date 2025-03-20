@@ -13,7 +13,6 @@
 <a href="https://instagram.com/ravmax-rdl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravmax-rdl" height="30" width="40" /></a>
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravmax-rdl&" alt="ravmax-rdl" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravmax-rdl&show_icons=true&locale=en&layout=compact" alt="ravmax-rdl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravmax-rdl&" alt="ravmax-rdl" /></p>
