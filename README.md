@@ -4,6 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravmax-rdl&label=Profile%20views&color=0e75b6&style=flat" alt="ravmax-rdl" /> </p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ravmax-rdl&theme=transparent&short_numbers=true&card_width=1000&type=png)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ravmax-rdl&theme=transparent&short_numbers=true&card_width=1000&type=png)
 
 ![Ravmax's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravmax-rdl&show_icons=true&theme=transparent)
