@@ -14,9 +14,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravmax-rdl&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
-
-
-
-<div align="center">
-⚡ Fun fact: **The first "bug" in a computer was literally a moth found in a relay**
-</div>
