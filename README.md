@@ -12,6 +12,14 @@
   <img src="https://github.com/user-attachments/assets/4e0d798c-83fe-4761-bb2a-5934956e2636" alt="Ravindu Banner" width="60%"/>
 </p>
 
+
+<p align="center">
+ <a href="mailto:ravindudl.rc@gmail.com?body=%0A%0A---%0A_github_" target="blank"><img align="center" src="https://img.icons8.com/fluency-systems-regular/48/FFFFFF/message-squared.png" alt="ravindudl.rc@gmail.com" height="30" width="30" /></a>
+<a href="https://twitter.com/ravmax_rdl" target="blank"><img align="center" src="https://img.icons8.com/fluency-systems-regular/48/FFFFFF/twitterx.png" alt="ravmax_rdl" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/ravmax-rdl" target="blank"><img align="center" src="https://img.icons8.com/fluency-systems-regular/48/FFFFFF/linkedin.png" alt="ravmax-rdl" height="30" width="30" /></a>
+<a href="https://instagram.com/ravmax_rdl" target="blank"><img align="center" src="https://img.icons8.com/fluency-systems-regular/48/FFFFFF/instagram-new--v1.png" alt="ravmax_rdl" height="30" width="30" /></a>
+</p>
+
 <br>
 <br>
 <br>
