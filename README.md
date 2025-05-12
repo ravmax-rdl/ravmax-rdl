@@ -25,13 +25,13 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ravmax-rdl&theme=transparent&short_numbers=true&card_width=600&hide_border=true&type=png&dates=9A3737&background=EB545400&border=EB5454&stroke=EBEBEB&ring=9A9A9A&fire=EB6D33&currStreakNum=EB5454&sideNums=EB5454&currStreakLabel=EB5454&sideLabels=EB5454&excludeDaysLabel=EB5454" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ravmax-rdl&theme=transparent&short_numbers=true&card_width=600&hide_border=true&type=png&dates=9A3737&background=EB545400&border=1f6ee9&stroke=EBEBEB&ring=91badc&fire=91badc&currStreakNum=1f6ee9&sideNums=1f6ee9&currStreakLabel=1f6ee9&sideLabels=1f6ee9&excludeDaysLabel=1f6ee9" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravmax-rdl&show_icons=true&theme=transparent&hide_border=true&type=png&title_color=EB5454&text_color=EB5454&icon_color=EB6D33" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravmax-rdl&show_icons=true&theme=transparent&hide_border=true&type=png&title_color=91badc&text_color=1f6ee9&icon_color=91badc" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravmax-rdl&layout=donut&theme=transparent&hide_border=true&type=png&title_color=EB5454&text_color=EB5454" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravmax-rdl&layout=donut&theme=transparent&hide_border=true&type=png&title_color=91badc&text_color=1f6ee9" alt="Top Languages" />
 </p>
