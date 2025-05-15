@@ -25,7 +25,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ravmax-rdl&theme=transparent&short_numbers=true&card_width=600&hide_border=true&type=png&dates=9A3737&background=EB545400&border=1f6ee9&stroke=EBEBEB&ring=91badc&fire=91badc&currStreakNum=1f6ee9&sideNums=1f6ee9&currStreakLabel=1f6ee9&sideLabels=1f6ee9&excludeDaysLabel=1f6ee9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ravmax-rdl&theme=transparent&short_numbers=true&card_width=600&hide_border=true&type=png&dates=1f6ee9&background=EB545400&border=1f6ee9&stroke=EBEBEB&ring=91badc&fire=91badc&currStreakNum=1f6ee9&sideNums=1f6ee9&currStreakLabel=1f6ee9&sideLabels=1f6ee9&excludeDaysLabel=1f6ee9" alt="GitHub Streak" />
 </p>
 
 <p align="center">
