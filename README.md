@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4e0d798c-83fe-4761-bb2a-5934956e2636" alt="Ravindu Banner" width="60%"/>
+  <img src="https://github.com/user-attachments/assets/4e0d798c-83fe-4761-bb2a-5934956e2636" alt="Ravmax Banner" width="60%"/>
 </p>
 
 
