@@ -2,9 +2,11 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="👋"/>, I'm Ravindu Liyanage
 </h1>
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravmax-rdl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+-->
 
 <br>
 
@@ -21,6 +23,16 @@
 </p>
 
 <br>
+<br>
+
+<p align="center">
+  Currently learning : <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg"> <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative2.svg"> <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg">
+</p>
+
+<p align="center">
+Wroking with : <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg"> <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo2.svg"> <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg">
+</p>
+
 <br>
 <br>
 
